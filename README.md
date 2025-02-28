@@ -4,6 +4,6 @@ keypoint are sent throug a gaussial blur for the model to process things more ea
 eg output
 ![output heatmap examples](https://github.com/user-attachments/assets/7b302445-44dc-4081-bb68-4aae1a0ba54e)
 sample outputs of the model with a pretrained resnet since time and computation power are limite
-will be in code section
+![keypoint outputs](https://github.com/user-attachments/assets/e14ea398-816a-4399-865b-afed6275e6db)
 
 , will leave a from scratch resnet for experimental purposes
