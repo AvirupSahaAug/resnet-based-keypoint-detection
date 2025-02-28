@@ -1,4 +1,4 @@
-# resnet-based-keypoint-detection
+# Resnet-based-keypoint-detection
 Pytorch deep learning model that uses deep learning to detect the 17 keypoints in human bodies although not optimized for hidden features or out of frame features , it is supposed to be the second stage in a two stage keypoint detection model
 keypoint are sent throug a gaussial blur for the model to process things more easily
 eg output(Note that this model was only run for 3 or 4 epochs because it was taking hours for one epoch )
